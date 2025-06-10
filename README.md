@@ -18,7 +18,7 @@
 
 1. Склонируй репозиторий:
 ```bash
-git clone https://github.com/r7omanov7707/crypto-portfolio-analyzer.git
+git clone https://github.com/yourusername/crypto-portfolio-analyzer.git
 cd crypto-portfolio-analyzer
 ```
 
