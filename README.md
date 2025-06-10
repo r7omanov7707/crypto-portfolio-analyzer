@@ -34,7 +34,7 @@ python main.py
 
 ## 💻 Пример работы:
 ```bash
-Enter coins (space-separated, e.g., bitcoin ethereum dogecoin): bitcoin ethereum
+Enter coins (space-separated, e.g., bitcoin ethereum dogecoin): bitcoin, ethereum
 How many bitcoin do you own?: 0.1
 How many ethereum do you own?: 2
 Bitcoin: 0.1 x $67000.00 = $6700.00
